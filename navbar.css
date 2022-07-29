@@ -1,0 +1,118 @@
+
+.header-nav {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+    height: 150px;
+    background-color: #FFF;
+    width: 100%;
+}
+
+.header-nav h1 {
+    font-family: 'Geometria';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #111111;
+    margin-left: -30px;
+    margin-top: 5px;
+}
+
+.header-nav input {
+    background: #FFFFFF;
+    box-shadow: inset 0px 0px 3px rgba(50, 87, 164, 0.25);
+    border-radius: 10px;
+    width: 314px;
+    height: 40px;
+    border: none;
+    margin-top: -10px;
+}
+
+.header-nav img {
+    height: 25px;
+
+}
+
+.header-nav a {
+    font-family: 'Geometria';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    text-decoration-line: underline;
+    color: #3257A4;
+    margin-left: -40px;
+}
+
+.header-nav i {
+    width: 10px;
+    height: 10px;
+}
+
+.header-nav-group {
+    margin-left: -100px;
+}
+
+.header-nav-menu {
+    margin-left: 90px;
+}
+
+.header-nav-box {
+    margin-top: 40px;
+    width: 100%;
+    position: absolute;
+    display: flex;
+    justify-content: space-around;
+}
+
+.fa-magnifying-glass {
+    position: absolute;
+    margin-left: -380px;
+}
+
+.header-nav-box ul li {
+    margin-left: 100px;
+    display: inline-block;
+    margin-top: 40px;
+}
+
+.header-nav-box ul li a {
+    text-decoration: none;
+    font-family: 'Geometria';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #111111;
+}
+
+.nav-box {
+    margin-top: 50px;
+    margin-right: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav-box i {
+    margin-left: 100px;
+    margin-top: -20px;
+}
+
+.fa-cart-shopping {
+    margin-right: 10px;
+}
+
+.fa-user {
+    margin-right: -10px;
+}
+
+.nav-box a {
+    text-decoration: none;
+    font-family: 'Geometria';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #111111;
+}
